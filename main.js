@@ -1,8 +1,8 @@
-//base by DGXeon x Phantom
-//YouTube: @phantom-hacks01
-//Instagram: Phantom-hacks01
+//base by @Sharmmelody
+//YouTube: @SHAMMELODY
+//Instagram: SHARMMELODY
 //Telegram: t.me/Hackerzone25
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@phantom-hacks01
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@shammelody?si=SLCWcnTaVOt110kQ
 
 require('./settings')
 const pino = require('pino')
@@ -29,8 +29,8 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "2348108395270"
-let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
+let phoneNumber = "254704322434"
+let owner = Sham.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
 const useMobile = process.argv.includes("--mobile")
