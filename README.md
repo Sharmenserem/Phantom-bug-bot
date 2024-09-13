@@ -7,19 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Passkey-md/Phantom-bug-bot/fork">
-    <img src="https://img.shields.io/github/forks/Passkey-md/Phantom-bug-bot?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/Passkey-md/Phantom-bug-bot/stargazers"> 
-    <img src="https://img.shields.io/github/stars/Passkey-md?style=social">
-  </a>
-
-</p>
-
-
-<p align="center">
-<a href="https://github.com/Passkey-md"><img title="Owner" src="https://img.shields.io/badge/Owner-Phantom-blue.svg?style=for-the-badge&logo=github" width="185px"
-
+    <img src="https://img.shields.io/github/f
 </p>https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif
 
 
@@ -45,3 +33,20 @@ yarn install
 npm i
 npm start
 
+ <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
+
+---------
+
+  
+<p align="center">  
+  <a href="https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S">
+    <img alt=Support height="300" src="https://i.imgur.com/bFEC7lC.jpeg">
+   
+</a> 
+    
+</p>
+<p align="center">
+<a 
