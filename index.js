@@ -1,8 +1,8 @@
 //base by DGXeon x Phantom
-//YouTube: @phantom-hacks01
-//Instagram: phantom-hacks01
+//YouTube: @shammelody
+//Instagram: shammelody 
 //Telegram: t.me/Hackerzone25
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@phantom-hacks01?si=u0_XNt7-muu6TJGY
+//want more free bot scripts? subscribe to my YouTube channel https://youtube.com/@shammelody?si=SLCWcnTaVOt110kQ
 
 const {
    spawn
